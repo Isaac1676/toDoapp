@@ -1,16 +1,33 @@
-# todoapp
+# ToDoApp
 
-A new Flutter project.
+Une application simple de gestion de tâches ("To-Do") pour vous aider à rester organisé au quotidien.
 
-## Getting Started
+## Description
+ToDoApp est une application conviviale conçue pour vous permettre de créer, suivre et gérer vos listes de tâches facilement. Que ce soit pour des tâches personnelles, professionnelles ou scolaires, cette application vous aide à rester concentré et productif.
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités
+- Créez des listes de tâches personnalisées.
+- Ajoutez ou supprimez des tâches.
+- Marquez les tâches comme "terminées".
+- Interface utilisateur intuitive et conviviale.
 
-A few resources to get you started if this is your first Flutter project:
+## Configuration
+1. **Clonage du dépôt :**
+git clone https://github.com/votre_utilisateur/ToDoApp.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Installation des dépendances :**
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Exécution de l'application :**
+flutter run
+
+## Captures d'écran
+![Capture d'écran 2024-01-01 124008](https://github.com/Isaac1676/toDoapp/assets/140208481/d34d5cc2-9fca-4d18-99b2-720c0173d96f)
+![Capture d'écran 2024-01-01 123946](https://github.com/Isaac1676/toDoapp/assets/140208481/e5188c45-cbff-4b57-b5c7-2c282bb8e6af)
+![Capture d'écran 2024-01-01 123924](https://github.com/Isaac1676/toDoapp/assets/140208481/642beb9b-e24e-422c-afbb-f396fe116dad)
+
+## Contributions
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue pour signaler un bug ou à proposer des améliorations via les pull requests.
+
+## Licence
+Ce projet est sous licence [LICENSE].
