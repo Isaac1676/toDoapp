@@ -29,7 +29,7 @@ class DialogBox extends StatelessWidget {
                   focusedBorder: const OutlineInputBorder(
                       borderSide: BorderSide(color: Colors.white)),
                   border: const OutlineInputBorder(
-                      borderSide: BorderSide(color: Colors.transparent)),
+                      borderSide: BorderSide(color: Colors.grey)),
                   hintText: "Add a new task",
                   hintStyle:
                       TextStyle(fontFamily: "Rubik", color: Colors.grey[400])),
