@@ -30,4 +30,4 @@ flutter run
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue pour signaler un bug ou à proposer des améliorations via les pull requests.
 
 ## Licence
-Ce projet est sous licence [LICENSE].
+Ce projet est sous licence [MIT License](LICENSE).
